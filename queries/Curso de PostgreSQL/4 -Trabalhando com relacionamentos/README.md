@@ -1,10 +1,14 @@
-Criando tabela com chave primária
-Erro de importação
-Criando tabela com chave estrangeira
-Departamento do funcionário
-Consultas com relacionamentos
-Funcionários com departamento
-LEFT, RIGHT, CROSS e FULL JOINS
-Faça como eu fiz
-Projeto da aula
-O que aprendemos?
+Nesta aula, aprendemos:
+
+Como funciona a chave primária
+Como funciona os campos que aceitam NULL e que não aceitam NULL (NOT NULL)
+Como funciona um campo UNIQUE
+Como criar uma chave primária
+Como funciona a chave estrangeira
+Como criar uma chave estrangeira
+Como criar consultas com relacionamentos
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+CROSS JOIN
